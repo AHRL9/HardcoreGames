@@ -1,0 +1,16 @@
+name: HardcoreGames
+version: ${project.version}
+load: STARTUP
+main: de.ahrl.hardcoregames.HardcoreGamesMain
+api-version: 1.16
+authors: [ AHRL9, MieceTV ]
+description: HG Plugin!
+commands:
+  kit:
+    description: lal!
+  start:
+    description: lel!
+  testmode:
+    description: lil!
+  world:
+    description: lol!
